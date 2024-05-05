@@ -1,0 +1,7 @@
+create "test.json":
+    add object shape:
+        add number nLati = 8
+        add string nome = gino
+        add object square:
+            add number nlati = 4
+            add string name = bob
